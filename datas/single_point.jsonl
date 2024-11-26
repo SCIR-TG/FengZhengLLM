@@ -1,0 +1,300 @@
+{"task": "single_point", "input": "双曲线二号Z火箭的发动机名称是什么？", "output": ["焦点一号"]}
+{"task": "single_point", "input": "火轮航天器在北美夜间磁层释放的是什么离子？", "output": ["钡离子"]}
+{"task": "single_point", "input": "宇宙482号的着陆舱可以承受多大压力？", "output": ["100个大气压"]}
+{"task": "single_point", "input": "SRB-A3固体助推器有哪两个版本？", "output": ["长时版", "速燃版"]}
+{"task": "single_point", "input": "北斗三号的MEOSAR服务确认信息发送时长是多少？", "output": ["2分钟"]}
+{"task": "single_point", "input": "火卫二的陨石坑一般直径不超过多少公里？", "output": ["2.5公里"]}
+{"task": "single_point", "input": "RD-107发动机有多少个喷管？", "output": ["24个"]}
+{"task": "single_point", "input": "SSME燃烧室的内层材料是什么？", "output": ["Narloy-2"]}
+{"task": "single_point", "input": "北斗卫星部署的轨道高度是多少千米?", "output": ["20000千米"]}
+{"task": "single_point", "input": "鹳卫星的主要用途是什么？", "output": ["提供在轨服务"]}
+{"task": "single_point", "input": "长征十二号火箭的一级液氧箱箱底直径有多大？", "output": ["3.8米"]}
+{"task": "single_point", "input": "SPOT-4卫星的Vegetation载荷使用了哪种材料的光电二极管来捕获短波红外（SWIR）频段？", "output": ["InGaAs"]}
+{"task": "single_point", "input": "1V轨道舱用于测量磁场的仪器是什么？", "output": ["磁强计"]}
+{"task": "single_point", "input": "遥感卫星十七号A的发射日期是什么时候？", "output": ["2013年9月1日"]}
+{"task": "single_point", "input": "卫星发射装置1号是由哪国研制的？", "output": ["巴西"]}
+{"task": "single_point", "input": "什么因素增加了对地静止航天器的轨道维持难度？", "output": ["扁率", "引力"]}
+{"task": "single_point", "input": "HM-7涡轮泵中的燃料泵效率是多少？", "output": ["0.564"]}
+{"task": "single_point", "input": "YF-100火箭发动机采用了什么燃烧循环技术？", "output": ["富氧预燃分级燃烧循环"]}
+{"task": "single_point", "input": "斯普特尼克24号的发射质量约是多少？", "output": ["一吨"]}
+{"task": "single_point", "input": "长征八号甲火箭使用了哪种新型末级？", "output": ["通用型氢氧末级"]}
+{"task": "single_point", "input": "部分轨道轰炸系统是什么时期开发的？", "output": ["冷战时期"]}
+{"task": "single_point", "input": "嫦娥四号探测器在月球背面实现了什么首次成就？", "output": ["软着陆"]}
+{"task": "single_point", "input": "双曲线二号Z火箭的箭体直径是多少？", "output": ["3.35米"]}
+{"task": "single_point", "input": "悟空号的主要任务是什么？", "output": ["暗物质"]}
+{"task": "single_point", "input": "鹊桥二号主天线的口径是多少？", "output": ["4.2米"]}
+{"task": "single_point", "input": "KH-9侦察卫星的寿命最长可达多少天？", "output": ["275天"]}
+{"task": "single_point", "input": "双曲线二号Y（Z）火箭的燃料是什么?", "output": ["液氧甲烷"]}
+{"task": "single_point", "input": "阿波罗11号的停泊轨道的远地点是多少公里？", "output": ["122 km"]}
+{"task": "single_point", "input": "智星空间科技有限公司专注于什么类型的卫星？", "output": ["合成孔径雷达卫星", "SAR卫星"]}
+{"task": "single_point", "input": "旅行者1号飞船需要多长时间才能到达奥尔特云的内边缘？", "output": ["300年"]}
+{"task": "single_point", "input": "西北工业大学的前身是什么？", "output": ["国立西北工学院"]}
+{"task": "single_point", "input": "谁设计了多级结构的运载火箭？", "output": ["齐奥尔科夫斯基"]}
+{"task": "single_point", "input": "天仪十六号能为农业提供什么服务？", "output": ["遥感"]}
+{"task": "single_point", "input": "天火-12发动机的真空推力是多少千牛顿？", "output": ["1350"]}
+{"task": "single_point", "input": "先驱者1号因累加的轨道误差未能脱离什么的引力？", "output": ["地球"]}
+{"task": "single_point", "input": "神舟十七号的发射时间是什么时候？", "output": ["2023年10月26日"]}
+{"task": "single_point", "input": "金星8号在大气进入阶段使用了什么来减缓下降速度？", "output": ["空气制动"]}
+{"task": "single_point", "input": "普朗克卫星通过什么火箭发射的?", "output": ["阿丽亚娜5号"]}
+{"task": "single_point", "input": "MARIE是什么仪器？", "output": ["火星辐射环境测试仪"]}
+{"task": "single_point", "input": "长征二号E火箭的首次发射发生在何时？", "output": ["1990年7月16日"]}
+{"task": "single_point", "input": "神舟十六号出舱活动持续多长时间？", "output": ["8小时"]}
+{"task": "single_point", "input": "罗塞塔号探测器何时飞过施泰因斯小行星？", "output": ["2008年9月"]}
+{"task": "single_point", "input": "国内首个以航天专业教育和技术研究为核心的学院是什么？", "output": ["哈尔滨工业大学"]}
+{"task": "single_point", "input": "长征五号被称为什么？", "output": ["胖五"]}
+{"task": "single_point", "input": "太阳系中已知最高的火山是什么?", "output": ["奥林帕斯山", "奥林匹斯山"]}
+{"task": "single_point", "input": "好奇号探测器发射的时间是什么时候？", "output": ["2011年11月26日"]}
+{"task": "single_point", "input": "土卫六的大气主要由哪些气体组成？", "output": ["氮", "甲烷"]}
+{"task": "single_point", "input": "航天器在哪里可以保持平衡？", "output": ["拉格朗日点"]}
+{"task": "single_point", "input": "彗星的主要来源是什么？", "output": ["柯伊伯带", "奥尔特云"]}
+{"task": "single_point", "input": "神舟飞船推进舱装有两个什么装置用于电源供应？", "output": ["太阳翼"]}
+{"task": "single_point", "input": "普朗克任务确认了宇宙中大约有多少百分比的暗物质？", "output": ["26%"]}
+{"task": "single_point", "input": "海盗2号在火星的哪个地区着陆？", "output": ["乌托邦平原"]}
+{"task": "single_point", "input": "月球轨道器1号获取的数据对未来哪项任务非常重要？", "output": ["阿波罗"]}
+{"task": "single_point", "input": "谁是第一位进入太空的英国人？", "output": ["海伦·沙曼"]}
+{"task": "single_point", "input": "GEM63固体助推器在真空中的比冲是多少？", "output": ["279秒"]}
+{"task": "single_point", "input": "风云三号C星的设计寿命是多少年？", "output": ["5年"]}
+{"task": "single_point", "input": "哪些部件在RS-25发动机的实际使用中寿命较短？", "output": ["涡轮泵"]}
+{"task": "single_point", "input": "YF-22系列发动机从哪个型号开始喷管加大？", "output": ["YF-22B"]}
+{"task": "single_point", "input": "谁是第一个在太空中睡觉的宇航员？", "output": ["格尔曼", "季托夫"]}
+{"task": "single_point", "input": "北斗三号卫星使用什么材料的电池阵？", "output": ["碳纤维蜂窝板"]}
+{"task": "single_point", "input": "大多数火箭发动机的故障发生在什么时候？", "output": ["启动"]}
+{"task": "single_point", "input": "厦门科技壹号卫星在2023年1月9日搭载了哪种火箭发射？", "output": ["谷神星一号"]}
+{"task": "single_point", "input": "天鹊-12A型发动机采用了什么技术来实现火箭的精细操控？", "output": ["正交双摆技术"]}
+{"task": "single_point", "input": "6U纳卫星的尺寸是多少？", "output": ["10x20x30厘米"]}
+{"task": "single_point", "input": "星舰一级助推级携带多少台发动机？", "output": ["33"]}
+{"task": "single_point", "input": "第一颗有空间探测器登陆的小行星是什么？", "output": ["爱神星"]}
+{"task": "single_point", "input": "KRE-075火箭发动机由哪家机构研发？", "output": ["韩国", "KARI"]}
+{"task": "single_point", "input": "东方红一号是哪国首次进入太空领域的象征?", "output": ["中华人民共和国", "中国"]}
+{"task": "single_point", "input": "嫦娥五号的任务是什么？", "output": ["采集月球样本", "采样"]}
+{"task": "single_point", "input": "远征一号S的首次飞行是什么时候？", "output": ["2018年10月9日"]}
+{"task": "single_point", "input": "东风着陆场位于哪个地区？", "output": ["阿拉善盟"]}
+{"task": "single_point", "input": "固体燃料上面级能否多次启动?", "output": ["不能"]}
+{"task": "single_point", "input": "景海鹏在2008年执行了哪次载人飞行任务？", "output": ["神舟七号"]}
+{"task": "single_point", "input": "俄罗斯科学院空间研究所成立于哪一年？", "output": ["1965"]}
+{"task": "single_point", "input": "哈勃太空望远镜服役了多少年？", "output": ["30"]}
+{"task": "single_point", "input": "婚神星由谁发现的？", "output": ["卡尔·哈丁"]}
+{"task": "single_point", "input": "阿波罗9号在完成任务后在哪里溅落？", "output": ["大西洋"]}
+{"task": "single_point", "input": "杨利伟执行首次载人航天任务的飞船名称是什么？", "output": ["神舟五号"]}
+{"task": "single_point", "input": "苏联哪一个月球探测器实现了第一次月球飞掠？", "output": ["月球1号"]}
+{"task": "single_point", "input": "西昌卫星发射中心什么时间首次承揽外星发射业务？", "output": ["1985年10月"]}
+{"task": "single_point", "input": "木卫二的年龄是多少？", "output": ["45亿"]}
+{"task": "single_point", "input": "太阳系绕银河系中心移动的速度是多少？", "output": ["72万公里每小时", "每小时72万公里"]}
+{"task": "single_point", "input": "长征二号F火箭的逃逸主发动机型号是什么？", "output": ["FG-56"]}
+{"task": "single_point", "input": "西安航天动力试验技术研究所主要研究什么？", "output": ["液体火箭发动机"]}
+{"task": "single_point", "input": "米米斯特罗贝尔小行星是什么时候发现的？", "output": ["1980年10月9日"]}
+{"task": "single_point", "input": "瓦伦丁·列别捷夫是什么时候出生的？", "output": ["1942年4月14日"]}
+{"task": "single_point", "input": "北京宇航推进科技有限公司成立于哪一年？", "output": ["2018"]}
+{"task": "single_point", "input": "冥王星和卡戎之间存在哪种天文现象？", "output": ["潮汐锁定"]}
+{"task": "single_point", "input": "在微重力环境下，航天器内部的流体运动主要受到什么影响？", "output": ["表面张力"]}
+{"task": "single_point", "input": "天鹊-15A发动机最多单次试车的时间记录是多少秒？", "output": ["2460"]}
+{"task": "single_point", "input": "叶光富的军衔是什么？", "output": ["大校"]}
+{"task": "single_point", "input": "朱诺号执行的重力科学实验目的是什么？", "output": ["引力场"]}
+{"task": "single_point", "input": "LauncherOne火箭由什么公司开发？", "output": ["维珍"]}
+{"task": "single_point", "input": "太阳风的主要成分是什么？", "output": ["氢离子", "氦离子"]}
+{"task": "single_point", "input": "奋进号的正式编号名是什么？", "output": ["轨道器105号"]}
+{"task": "single_point", "input": "太阳辐射的强度在近日点时是多少？", "output": ["1399"]}
+{"task": "single_point", "input": "火星静止轨道的高度是多少公里？", "output": ["17032"]}
+{"task": "single_point", "input": "风云二号C星的设计寿命是多少年？", "output": ["3年"]}
+{"task": "single_point", "input": "月球20号的返回舱最终降落在了哪里？", "output": ["哈萨克斯坦"]}
+{"task": "single_point", "input": "RLV-T6型火箭使用什么推进剂？", "output": ["液氧甲烷"]}
+{"task": "single_point", "input": "焦点一号发动机使用什么燃料?", "output": ["液氧甲烷"]}
+{"task": "single_point", "input": "谁发现了土卫九？", "output": ["威廉·皮克林"]}
+{"task": "single_point", "input": "US-A卫星的主要动力源是什么？", "output": ["核反应堆"]}
+{"task": "single_point", "input": "高分二号卫星的空间分辨率是多少？", "output": ["小于1米"]}
+{"task": "single_point", "input": "冻结轨道的轨道倾角是多少度？", "output": ["63.4"]}
+{"task": "single_point", "input": "国家航天局探月与航天工程中心在哪一年成立?", "output": ["2004"]}
+{"task": "single_point", "input": "安塔瑞斯火箭的一级发动机是哪里进口的?", "output": ["俄罗斯"]}
+{"task": "single_point", "input": "为什么在航天活动中使用世界时？", "output": ["统一"]}
+{"task": "single_point", "input": "东方号载人飞船首次飞行是哪天？", "output": ["1961年4月12日"]}
+{"task": "single_point", "input": "哈勃空间望远镜的主镜直径是多少？", "output": ["2.4", "7.8"]}
+{"task": "single_point", "input": "木卫一与哪位希腊神话人物有关联？", "output": ["赫拉朱诺"]}
+{"task": "single_point", "input": "固体火箭发动机在飞机起飞时的作用是什么？", "output": ["助推"]}
+{"task": "single_point", "input": "航天器姿态控制中，评估系统稳定性的重要数学工具是什么？", "output": ["李雅普诺夫函数"]}
+{"task": "single_point", "input": "未经过潮汐锁定的天体表面会产生什么现象？", "output": ["潮汐凸起"]}
+{"task": "single_point", "input": "朱塞佩·皮亚齐发现了哪个天体？", "output": ["谷神星"]}
+{"task": "single_point", "input": "巴基斯坦的第一颗人造卫星是什么？", "output": ["巴德尔A"]}
+{"task": "single_point", "input": "谁带领了1VA飞船的准备工作？", "output": ["科罗廖夫"]}
+{"task": "single_point", "input": "文昌航天发射场的地理优势是什么？", "output": ["低纬度"]}
+{"task": "single_point", "input": "联盟U2火箭首次飞行是哪一年？", "output": ["1982年"]}
+{"task": "single_point", "input": "天鹊-12A发动机在海平面的推力是多少千牛顿？", "output": ["720"]}
+{"task": "single_point", "input": "猎户座飞船能够支持多少名宇航员？", "output": ["6"]}
+{"task": "single_point", "input": "冥王星的最大卫星叫什么？", "output": ["卡戎"]}
+{"task": "single_point", "input": "天舟七号货运飞船在哪一年发射的？", "output": ["2024"]}
+{"task": "single_point", "input": "月球16号带回地球的月球物质总共重量是多少？", "output": ["101克"]}
+{"task": "single_point", "input": "阿波罗1号任务发生了什么事故？", "output": ["火灾"]}
+{"task": "single_point", "input": "高分一号卫星的卫星平台是什么？", "output": ["CAST2000"]}
+{"task": "single_point", "input": "嫦娥四号月球微型生态系统科普载荷中装有什么植物种子？", "output": ["马铃薯", "油菜", "棉花", "拟南芥"]}
+{"task": "single_point", "input": "阿尔忒弥斯2号任务的指令长是谁？", "output": ["里德·怀斯曼"]}
+{"task": "single_point", "input": "晋升太空公司在哪里注册成立的？", "output": ["台湾"]}
+{"task": "single_point", "input": "低月球轨道的海拔高度是多少？", "output": ["100公里"]}
+{"task": "single_point", "input": "第一个进入月球轨道的航天器是什么？", "output": ["月球10号"]}
+{"task": "single_point", "input": "猎鹰9号火箭使用哪种技术进行回收？", "output": ["垂直着陆回收"]}
+{"task": "single_point", "input": "海王星和冥王星不会发生碰撞的原因是什么？", "output": ["轨道共振"]}
+{"task": "single_point", "input": "阿波罗9号于何时发射升空？", "output": ["1969年3月3日"]}
+{"task": "single_point", "input": "快舟一号甲属于什么类型的火箭？", "output": ["固液串联"]}
+{"task": "single_point", "input": "亚特兰蒂斯号航天飞机的首次太空飞行是哪一年？", "output": ["1985年"]}
+{"task": "single_point", "input": "Vega 2探测器发现哈雷彗星核心的反照率是多少？", "output": ["4%"]}
+{"task": "single_point", "input": "彗星的主要构成是什么？", "output": ["有机物", "冰"]}
+{"task": "single_point", "input": "1985年2月哪一空间站经历了连锁的电气故障？", "output": ["礼炮7号"]}
+{"task": "single_point", "input": "新视野号探测器用来测量航天器旋转和线性运动的设备叫什么？", "output": ["惯性测量"]}
+{"task": "single_point", "input": "什么效应对航天器的温控系统具有潜在应用价值？", "output": ["珀耳帖"]}
+{"task": "single_point", "input": "RD-253系列发动机使用的推进剂有哪些？", "output": ["偏二甲肼", "四氧化二氮"]}
+{"task": "single_point", "input": "鹊桥二号中继星在哪条轨道上运行？", "output": ["环月大椭圆使命轨道"]}
+{"task": "single_point", "input": "Apollo飞船是从哪里发射升空的？", "output": ["肯尼迪航天中心"]}
+{"task": "single_point", "input": "东方航天发射场在哪里？", "output": ["阿穆尔州"]}
+{"task": "single_point", "input": "土卫三的表面主要由什么组成？", "output": ["水冰"]}
+{"task": "single_point", "input": "土星的核心主要由什么组成？", "output": ["铁", "镍"]}
+{"task": "single_point", "input": "天鹊-15A火箭发动机的推力调节范围是多少？", "output": ["55%", "110%"]}
+{"task": "single_point", "input": "麦哲伦号航天器通过什么技术来改变轨道？", "output": ["空气制动"]}
+{"task": "single_point", "input": "快舟一号甲具备什么发射能力？", "output": ["一箭多星"]}
+{"task": "single_point", "input": "太阳系中最大的行星是什么？", "output": ["木星"]}
+{"task": "single_point", "input": "哪个国家设定了2030年之前完成火星采样返回任务的目标？", "output": ["美国"]}
+{"task": "single_point", "input": "国际空间站的无线电呼号是什么？", "output": ["阿尔法"]}
+{"task": "single_point", "input": "长征五号运载火箭的高度是多少米？", "output": ["57米"]}
+{"task": "single_point", "input": "施泰因斯小行星是谁发现的？", "output": ["尼古拉·斯泰潘诺维奇·茨切尔尼奇"]}
+{"task": "single_point", "input": "快舟十一号运载火箭采用了什么材料来实现轻量化设计？", "output": ["碳纤维"]}
+{"task": "single_point", "input": "信使号探测器如何降低相对于水星的速度？", "output": ["引力弹弓"]}
+{"task": "single_point", "input": "神舟十四号任务持续了多少天？", "output": ["182"]}
+{"task": "single_point", "input": "地月转移轨道的飞行时间通常为多少天？", "output": ["3到5天"]}
+{"task": "single_point", "input": "力箭二号火箭的贮箱直径是多少？", "output": ["3350毫米"]}
+{"task": "single_point", "input": "SJTU思源二号有多重？", "output": ["7千克"]}
+{"task": "single_point", "input": "天舟六号货运飞船在哪个发射场发射的？", "output": ["文昌"]}
+{"task": "single_point", "input": "星链V2.0 Mini的重量是多少？", "output": ["800千克"]}
+{"task": "single_point", "input": "H-IIB火箭的直径是多少？", "output": ["5.2米"]}
+{"task": "single_point", "input": "嫦娥二号卫星载荷中APS小相机的主要任务是什么？", "output": ["在轨成像"]}
+{"task": "single_point", "input": "长征六号运载火箭在哪个发射场成功发射紫丁香二号卫星？", "output": ["太原"]}
+{"task": "single_point", "input": "联盟-28任务中与阿列克谢·古巴列夫共同飞行的是哪位宇航员？", "output": ["弗拉迪米尔·雷马克"]}
+{"task": "single_point", "input": "天问一号什么时候发射成功的？", "output": ["2020年7月23日"]}
+{"task": "single_point", "input": "冥王星和卡戎的潮汐锁定特点是什么？", "output": ["双向潮汐锁定"]}
+{"task": "single_point", "input": "RS-25发动机的预燃室使用了哪种材料作为外壁？", "output": ["镍基合金"]}
+{"task": "single_point", "input": "冥王星现在被归类为什么？", "output": ["矮行星"]}
+{"task": "single_point", "input": "鹊桥二号的主要功能是什么？", "output": ["中继通信"]}
+{"task": "single_point", "input": "火星5号由哪种火箭发射升空的？", "output": ["质子K"]}
+{"task": "single_point", "input": "N1火箭调查过程中被认为最可能导致爆炸的部件是什么？", "output": ["涡轮泵"]}
+{"task": "single_point", "input": "质子M的一级使用多少台RD-275M发动机？", "output": ["6"]}
+{"task": "single_point", "input": "鸽群卫星通过什么方法调整轨道？", "output": ["差分拖动控制"]}
+{"task": "single_point", "input": "SpaceX计划在什么时候进行第二次载人登月任务？", "output": ["2027年"]}
+{"task": "single_point", "input": "对地静止轨道的倾角是多少度？", "output": ["0"]}
+{"task": "single_point", "input": "双曲线一号火箭首次发射成功的时间是什么时候？", "output": ["2019年7月25日"]}
+{"task": "single_point", "input": "中国科学院力学研究所在哪一年成立？", "output": ["1956"]}
+{"task": "single_point", "input": "新视野号使用了什么效应来加速前往冥王星？", "output": ["引力弹弓"]}
+{"task": "single_point", "input": "土星的平均半径是多少?", "output": ["58232千米"]}
+{"task": "single_point", "input": "火星表面最低温度可达多少摄氏度？", "output": ["86"]}
+{"task": "single_point", "input": "伊卡洛斯小行星是由谁发现的？", "output": ["瓦特·巴德"]}
+{"task": "single_point", "input": "哪个任务使中国成为第三个能够独立开展空间行走的国家？", "output": ["神舟七号"]}
+{"task": "single_point", "input": "阿丽亚娜空间公司进行运载火箭发射的地点在哪里？", "output": ["圭亚那"]}
+{"task": "single_point", "input": "火神液体火箭发动机启动过程中首先进行什么操作？", "output": ["预冷"]}
+{"task": "single_point", "input": "开普勒第二定律的别名是什么？", "output": ["面积定律"]}
+{"task": "single_point", "input": "旅行者1号何时进入星际空间？", "output": ["2012年8月"]}
+{"task": "single_point", "input": "月球16号在哪里着陆？", "output": ["丰富海"]}
+{"task": "single_point", "input": "神舟一号的落点精度是多少？", "output": ["11.2千米"]}
+{"task": "single_point", "input": "金星大气中的主要成分是什么？", "output": ["二氧化碳"]}
+{"task": "single_point", "input": "神舟六号的航天员有几名？", "output": ["两名"]}
+{"task": "single_point", "input": "中国有几个航天发射场?", "output": ["四个"]}
+{"task": "single_point", "input": "朱雀三号VTVL-1试验箭的主要材料是什么？", "output": ["不锈钢"]}
+{"task": "single_point", "input": "北斗时初始时间是什么时候？", "output": ["2006年1月1日"]}
+{"task": "single_point", "input": "火星的大气主要由什么组成？", "output": ["二氧化碳"]}
+{"task": "single_point", "input": "中国的第一次载人航天计划叫什么？", "output": ["曙光一号"]}
+{"task": "single_point", "input": "哪种运载火箭进行了阿波罗4号任务的首次飞行？", "output": ["土星5号"]}
+{"task": "single_point", "input": "力擎一号发动机使用的推进剂是什么？", "output": ["液氧煤油"]}
+{"task": "single_point", "input": "第三宇宙速度是什么?", "output": ["16.7"]}
+{"task": "single_point", "input": "土井隆雄参与了哪些STS任务？", "output": ["STS-87", "STS-123"]}
+{"task": "single_point", "input": "格奥尔基·多布罗沃尔斯基是哪个国家的宇航员？", "output": ["苏联"]}
+{"task": "single_point", "input": "快舟十一号火箭在哪个发射中心发射的？", "output": ["酒泉"]}
+{"task": "single_point", "input": "谁通过数学预测发现了海王星?", "output": ["厄本·勒维里尔"]}
+{"task": "single_point", "input": "神舟十八号航天员乘组由哪三名航天员组成？", "output": ["叶光富", "李聪", "李广苏"]}
+{"task": "single_point", "input": "木星的海洋由什么组成？", "output": ["氢"]}
+{"task": "single_point", "input": "火星上最高的山是什么？", "output": ["奥林帕斯山", "奥林匹斯山"]}
+{"task": "single_point", "input": "神舟三号飞船环绕地球飞行了多少圈？", "output": ["108圈"]}
+{"task": "single_point", "input": "日本最大的火箭发射基地是哪一个？", "output": ["种子岛"]}
+{"task": "single_point", "input": "铱星计划由多少颗低轨卫星构成？", "output": ["66"]}
+{"task": "single_point", "input": "柯伊伯带的物体为什么没有合并成一个大行星？", "output": ["引力扰动"]}
+{"task": "single_point", "input": "神舟十二号至神舟十六号飞船在哪里着陆？", "output": ["东风"]}
+{"task": "single_point", "input": "YF-75是什么类型的发动机？", "output": ["氢氧"]}
+{"task": "single_point", "input": "谁最早发现了土星的卫星泰坦？", "output": ["惠更斯"]}
+{"task": "single_point", "input": "亚太太空合作组织的总部在哪里？", "output": ["北京"]}
+{"task": "single_point", "input": "全球首个由私营企业成功发射的纯液体运载火箭是哪一款火箭？", "output": ["天龙二号"]}
+{"task": "single_point", "input": "朱雀二号运载火箭的发射时间是什么时候？", "output": ["2023年7月12日"]}
+{"task": "single_point", "input": "中国载人航天工程办公室成立于哪一年？", "output": ["1993年"]}
+{"task": "single_point", "input": "嫦娥五号再入返回飞行试验器在哪里着陆的？", "output": ["四子王旗"]}
+{"task": "single_point", "input": "苏联的暴风雪号航天飞机首次发射是在什么时候？", "output": ["1988年11月15日"]}
+{"task": "single_point", "input": "太阳周期大约多久完成一次?", "output": ["11年"]}
+{"task": "single_point", "input": "热电制冷利用了什么效应？", "output": ["帕尔帖"]}
+{"task": "single_point", "input": "高分系列卫星的主要应用领域有哪些？", "output": ["国土勘查", "资源勘探"]}
+{"task": "single_point", "input": "中国第一家商业航天发射场位于哪里？", "output": ["文昌"]}
+{"task": "single_point", "input": "天鹊-11发动机的真空比冲是多少？", "output": ["333秒"]}
+{"task": "single_point", "input": "AJ-10-118K发动机采用了哪种循环方式？", "output": ["挤压循环"]}
+{"task": "single_point", "input": "哪种火箭成功将载人龙飞船奋进号送入轨道？", "output": ["猎鹰9号"]}
+{"task": "single_point", "input": "新视野号探测器以多少速度飞掠冥王星？", "output": ["13.78"]}
+{"task": "single_point", "input": "谁在学术界被认为预言了海王星的存在？", "output": ["亚当斯"]}
+{"task": "single_point", "input": "萨迪什·达万航天中心位于哪个岛屿？", "output": ["斯里赫里戈达岛"]}
+{"task": "single_point", "input": "为什么月球总是只有一边面对地球？", "output": ["潮汐锁定"]}
+{"task": "single_point", "input": "朱雀二号的一级和二级主发动机是哪种型号？", "output": ["天鹊-12"]}
+{"task": "single_point", "input": "太阳系中最大的卫星是什么？", "output": ["木卫三"]}
+{"task": "single_point", "input": "美国太空军正式成立于哪一年？", "output": ["2019"]}
+{"task": "single_point", "input": "会合-舒梅克号主要研究的目标是什么？", "output": ["爱神星"]}
+{"task": "single_point", "input": "北斗三号全球卫星导航系统于哪一年正式开通？", "output": ["2020"]}
+{"task": "single_point", "input": "金星大气主要吸收哪些气体的光谱线？", "output": ["二氧化碳"]}
+{"task": "single_point", "input": "火星快车任务中，哪种物质的发现表明火星过去可能存在液态水？", "output": ["水合矿物"]}
+{"task": "single_point", "input": "日冕的温度是多少？", "output": ["2百万摄氏度", "两百万摄氏度"]}
+{"task": "single_point", "input": "卡门线的高度是多少？", "output": ["100千米", "100公里"]}
+{"task": "single_point", "input": "长征五号B火箭贮箱绝热材料是什么？", "output": ["低密度全闭孔聚氨酯泡沫塑料"]}
+{"task": "single_point", "input": "冥王星有多少颗已知的卫星？", "output": ["五", "5"]}
+{"task": "single_point", "input": "YF-100K是专为什么任务设计的火箭发动机？", "output": ["载人登月"]}
+{"task": "single_point", "input": "2MV计划由哪个国家发起？", "output": ["苏联"]}
+{"task": "single_point", "input": "新视野号探测器采用的能源系统是什么？", "output": ["放射性同位素"]}
+{"task": "single_point", "input": "上海航天技术研究院创立于哪一年？", "output": ["1961年"]}
+{"task": "single_point", "input": "长征六号丙和长征十二号火箭的二级使用了什么发动机？", "output": ["YF-115"]}
+{"task": "single_point", "input": "刘伯明在2008年执行了哪次飞行任务？", "output": ["神舟七号"]}
+{"task": "single_point", "input": "游隼号的姿态控制系统使用了多少个推进器？", "output": ["45个"]}
+{"task": "single_point", "input": "谁是第一位进入太空的女性？", "output": ["捷列什科娃"]}
+{"task": "single_point", "input": "月球完成一次自转需要多长时间?", "output": ["27个地球日", "27天"]}
+{"task": "single_point", "input": "航天器热模拟试验中加热带表面喷涂什么颜色的漆？", "output": ["黑色"]}
+{"task": "single_point", "input": "月球正面有许多被称作什么的平原？", "output": ["月海"]}
+{"task": "single_point", "input": "星链计划计划部署多少颗低轨卫星？", "output": ["42000"]}
+{"task": "single_point", "input": "联盟号运载火箭的设计基础是什么火箭？", "output": ["8K78M"]}
+{"task": "single_point", "input": "YF-100液体火箭发动机使用什么燃料？", "output": ["液氧", "煤油"]}
+{"task": "single_point", "input": "哪一个探测器是第一个成功环绕火星的航天器？", "output": ["水手9号"]}
+{"task": "single_point", "input": "是谁命名了火卫一和火卫二？", "output": ["阿萨夫·霍尔"]}
+{"task": "single_point", "input": "天宫空间站的主要部分是什么？", "output": ["天和核心舱"]}
+{"task": "single_point", "input": "谁发现了爱神星？", "output": ["古斯塔夫·维特"]}
+{"task": "single_point", "input": "SpaceX使用哪些火箭执行太空任务？", "output": ["猎鹰9号", "重型猎鹰"]}
+{"task": "single_point", "input": "杨利伟乘坐什么飞船完成了载人航天飞行？", "output": ["神舟五号"]}
+{"task": "single_point", "input": "谁在1672年发现了土卫五？", "output": ["乔瓦尼·卡西尼"]}
+{"task": "single_point", "input": "小行星爱达的发现者是谁？", "output": ["约翰·帕利萨"]}
+{"task": "single_point", "input": "CW信标通过什么传输卫星的呼号和遥测数据？", "output": ["摩斯码"]}
+{"task": "single_point", "input": "RS-25发动机的单台推力是多少？", "output": ["2279千牛", "232.5吨"]}
+{"task": "single_point", "input": "中国首次载人航天飞行任务的名称是什么？", "output": ["神舟五号"]}
+{"task": "single_point", "input": "神舟十号飞船的总长是多少米？", "output": ["9米"]}
+{"task": "single_point", "input": "星舰的制造材料是什么？", "output": ["不锈钢"]}
+{"task": "single_point", "input": "东方1号飞船搭载了哪位宇航员？", "output": ["尤里·加加林"]}
+{"task": "single_point", "input": "鸽群卫星使用了哪种算法来调整其在轨道上的位置？", "output": ["差分拖拽控制"]}
+{"task": "single_point", "input": "低地球轨道的偏心率是多少？", "output": ["0.25"]}
+{"task": "single_point", "input": "长征一号第一级发动机的型号是什么？", "output": ["YF-2A"]}
+{"task": "single_point", "input": "爱因斯坦对量子力学的哪一方面感到不满？", "output": ["不确定性"]}
+{"task": "single_point", "input": "F-1A液体火箭发动机的燃料是什么？", "output": ["RP-1"]}
+{"task": "single_point", "input": "阿波罗9号任务中登月模块的命名是什么？", "output": ["Spider", "spider"]}
+{"task": "single_point", "input": "吉布斯矢量描述的是什么运动?", "output": ["刚体旋转"]}
+{"task": "single_point", "input": "TESS运用什么方法来搜索系外行星？", "output": ["凌日法"]}
+{"task": "single_point", "input": "地球同步轨道的高度是多少？", "output": ["37,000", "37000"]}
+{"task": "single_point", "input": "水星的公转周期是多少天？", "output": ["88"]}
+{"task": "single_point", "input": "什么是长周期彗星的源头？", "output": ["奥尔特云"]}
+{"task": "single_point", "input": "暴风雪号航天飞机进行了几次飞行任务？", "output": ["一"]}
+{"task": "single_point", "input": "长征十号火箭支持什么任务？", "output": ["载人月球探测"]}
+{"task": "single_point", "input": "SpaceX星舰的首次轨道飞行试验是什么时候进行的？", "output": ["2023年4月20日"]}
+{"task": "single_point", "input": "太阳系中火星和木星之间的区域叫什么？", "output": ["主小行星带"]}
+{"task": "single_point", "input": "航天动力技术研究院总部在哪个城市？", "output": ["西安"]}
+{"task": "single_point", "input": "月球的直径是多少公里？", "output": ["3476"]}
+{"task": "single_point", "input": "新视野号使用什么系统与地球保持联系？", "output": ["X波段通信"]}
+{"task": "single_point", "input": "土卫六的平均半径是多少千米", "output": ["2575"]}
+{"task": "single_point", "input": "Atlas V火箭由谁负责发射？", "output": ["联合发射联盟", "ULA"]}
+{"task": "single_point", "input": "神舟五号的航天员是谁？", "output": ["杨利伟"]}
+{"task": "single_point", "input": "卡斯塔利亚是哪位天文学家发现的？", "output": ["埃莉诺·海林"]}
+{"task": "single_point", "input": "猎鹰9号v1.2 Block 5的一级使用的推进剂是什么？", "output": ["RP-1"]}
+{"task": "single_point", "input": "尤里·加加林首次太空飞行持续了多长时间？", "output": ["108分钟"]}
+{"task": "single_point", "input": "KDU-414发动机的设计师是谁？", "output": ["阿列克谢·伊萨耶夫"]}
+{"task": "single_point", "input": "土星5号火箭在哪个航天计划中使用？", "output": ["阿波罗"]}
+{"task": "single_point", "input": "月船1号任务在哪发现了水分？", "output": ["月球两极"]}
+{"task": "single_point", "input": "赫尔曼·戈德施密特在哪一年观测到司琴星的？", "output": ["1852"]}
+{"task": "single_point", "input": "太阳同步轨道的高度是多少？", "output": ["475公里", "475千米"]}
