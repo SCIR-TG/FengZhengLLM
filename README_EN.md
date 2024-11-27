@@ -27,7 +27,7 @@ The model's training is divided into two distinct phases: the knowledge injectio
 
 The **knowledge injection phase** aims to imbue the model's internal parameters with extensive factual and scientific knowledge related to aerospace. The textual data for this phase comes primarily from the internet and relevant books, including aerospace news, Wikipedia, WeChat public accounts, official websites, and textbooks and papers related to astronautics. To filter the vast amount of candidate text, we employed vocabulary-based filtering to extract documents highly relevant to the aerospace domain. The filtered text data then underwent fine-grained deduplication using the *data-juicer* tool.  
 
-![Proportion of Data Sources in the Knowledge Injection Phase](https://files.mdnice.com/user/76124/ca45da96-40c5-49af-98ff-a3df5649ceba.png)  
+![Proportion of Data Sources in the Knowledge Injection Phase](./imgs/benchmark.png)  
 
 The **format alignment phase** aims to enhance the model's instruction-following abilities and its capacity for multi-turn aerospace knowledge-based interactive Q&A. The interaction dialogue data for this phase comes from the *Infinite-Instruct* dataset and single-turn and multi-turn Q&A pairs generated iteratively by closed-source large language models based on high-quality aerospace domain documents. To further strengthen the model's capability to execute high-quality retrieval-augmented generation processes, we also incorporated instruction data corresponding to each node of the process.  
 
@@ -44,7 +44,7 @@ To address these challenges, we propose a strategy for knowledge injection throu
 
 From multiple perspectives, we implement instruction fine-tuning data augmentation based on high-quality pre-trained documents. Specifically, we design a self-supervised data augmentation strategy that constructs a series of knowledge-intensive instruction fine-tuning samples from the original documents. This approach does not rely on any domain-specific processing strategies, making it applicable for training domain-specific texts in any scenario.
 
-![Example of Self-Supervised Instruction Fine-Tuning Sample Construction](https://files.mdnice.com/user/76124/dbad3323-ba76-40a3-a458-41959861c6f1.png)
+![Example of Self-Supervised Instruction Fine-Tuning Sample Construction](./imgs/data_augment.png)
 
 #### 2.2.2 Domain Knowledge Spaced Training Based on Model-Specific Document Perplexity Ranking
 
@@ -52,13 +52,16 @@ The fundamental mechanism through which large language models learn factual know
 
 Specifically, for each foundational language model (e.g., Llama3-8B), we first calculate the perplexity of each domain document in the corpus. The documents are then ranked in ascending order of perplexity, and the process of constructing self-supervised instruction fine-tuning samples, as described in the previous section, is applied sequentially. During supervised fine-tuning, the instruction data expanded from each domain document is uniformly distributed across the training data at equal intervals. Furthermore, the data in each minibatch during training maintains the original arrangement of the training data, with no shuffling applied.
 
+#### 2.2.3 Experimental Validation
+
+Due to computational resource constraints, we validated the effectiveness of the knowledge injection supervised fine-tuning strategy on three additional small datasets. These include SAT, a Chinese aerospace domain QA dataset; Film Wiki, a QA dataset constructed from film-related content in Wikipedia; and Squad, a QA dataset derived from a subset of the SQuAD reading comprehension dataset. These three datasets comprehensively validate our method from the perspectives of multilingual, specialized domain, and general domain applications.
+
+![The experimental results of supervised fine-tuning with knowledge injection](https://files.mdnice.com/user/76124/edea61c1-477c-49dc-a393-9e9db4ac2d91.png)
 
 
 ### 2.3 Format Alignment Fine-Tuning
 
 This stage aligns the model's Q&A outputs with human preferences. Training data includes single-turn and multi-turn aerospace Q&A, as well as general instruction-following data from the Infinite-Instruct dataset.
-
-![](https://files.mdnice.com/user/76124/edea61c1-477c-49dc-a393-9e9db4ac2d91.png)
 
 ## 3 Aerospace Model Evaluation Benchmarks
 
@@ -86,7 +89,7 @@ Even when trained with high-quality data, the "FengZheng" aerospace knowledge la
 - **Query Expansion and Decomposition:** User queries often involve multiple entities. Considering the model's limitations in comprehending multi-entity queries, the query is broken down into several subqueries, each focusing on issues related to a single entity.  
 - **Response Generation:** In the final stage, the model synthesizes relevant information from retrieved documents to produce coherent and informative responses.  
 
-![Retrieval-Augmented Generation Strategy Workflow](https://files.mdnice.com/user/76124/51d17577-299e-440a-b25a-3535aba7d834.png)
+![Retrieval-Augmented Generation Strategy Workflow](./imgs/assist_work_flow.png)
 
 ### 5.1 Query Enhancement  
 
@@ -160,7 +163,9 @@ python eval_factual_long.py --model_name {your_model_path}
 - Supervisors: [Prof. Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/), [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)  
 - Main Developers: Weitao Ma, Maojin Yang, Huiyi Zhang, Huixin Liu, Shuaibo Zhao  
 
-## 9 Disclaimer
+## 9 Open Source License & Disclaimer
+
+The use of the source code in this repository is governed by the open-source license [Apache 2.0](./LICENSE).
 
 The resources related to this project are for academic research purposes only and are strictly prohibited from being used for commercial purposes. When using components involving third-party code, please strictly adhere to the corresponding open-source licenses. The content generated by the model is influenced by factors such as computational processes, randomness, and quantization precision loss, and this project cannot guarantee its accuracy. This project assumes no legal responsibility for any content output by the model and is not liable for any losses that may result from the use of related resources or output results.
 
