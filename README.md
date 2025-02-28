@@ -130,7 +130,7 @@ python eval_factual_long.py \
 ```
 
 ## 8 参与人员
-- 指导教师：[冯骁骋](http://homepage.hit.edu.cn/fengxiaocheng/)教授、[秦兵](http://homepage.hit.edu.cn/qinbing/))教授
+- 指导教师：[冯骁骋](http://homepage.hit.edu.cn/fengxiaocheng)教授、[秦兵](http://homepage.hit.edu.cn/qinbing)教授
 
 - 项目主要开发者：马伟涛、杨茂锦、张慧怡、刘慧新、赵帅博（以上排名不分先后）
 
