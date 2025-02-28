@@ -160,7 +160,7 @@ python eval_factual_long.py --model_name {your_model_path}
 
 ## 8 Contributors
 
-- Supervisors: [Prof. Xiaocheng Feng](http://ir.hit.edu.cn/~xcfeng/), [Prof. Bing Qin](http://ir.hit.edu.cn/~qinb/)  
+- Supervisors: [Prof. Xiaocheng Feng](http://homepage.hit.edu.cn/fengxiaocheng), [Prof. Bing Qin](http://homepage.hit.edu.cn/qinbing)  
 - Main Developers: Weitao Ma, Maojin Yang, Huiyi Zhang, Huixin Liu, Shuaibo Zhao  
 
 ## 9 Open Source License & Disclaimer
@@ -175,11 +175,11 @@ The resources related to this project are for academic research purposes only an
 If you use the data or code, please cite:
 ```
 @misc{FengZheng2024,
-    author = {},
-    title = {},
+    author = {Xiaocheng Feng*, Weitao Ma, Maojin Yang, Huiyi Zhang, Huixin Liu, Shuaibo Zhao, Bing Qin},
+    title = {FengZheng: A Chinese Large Language Model for Aerospace Science},
     year = {2024},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{}}
+    howpublished = {\url{https://github.com/SCIR-TG/FengZhengLLM}}
 }
 ```
